@@ -1,2 +1,3 @@
 # Gulp-Build
-Gulp build for building static html-pages
+SCSS, Minify JS / CSS, Autoprefixer, Babel, Eslint, Imagemin, Hotreload.
+
